@@ -5600,7 +5600,7 @@ a:hover .c-logo__iris {
     padding: 1.5em .75em;
     display: block;
     color: #232320;
-    font-size: 1.1em;
+    font-size: 15px;
     transition: color .2s linear;
     position: relative
 }
