@@ -7,12 +7,5 @@
   "app_name": "by: Artur Anderson",
   "short_name": "by: Artur",
   "name": "by: Artur Anderson",
-  "description": "by: Artur Anderson",
-  "icons": [
-      {
-          "src": "./images/icon-192x192.png",
-          "sizes": "192x192",
-          "type": "image/png"
-      }
-  ]
+  "description": "by: Artur Anderson"
 }
