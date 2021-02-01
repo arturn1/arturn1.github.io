@@ -4,10 +4,10 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
-  "app_name": "By: Artur Anderson",
-  "short_name": "Arth",
-  "name": "By: Artur Anderson",
-  "description": "By: Artur Anderson",
+  "app_name": "by: Artur Anderson",
+  "short_name": "by: Artur",
+  "name": "by: Artur Anderson",
+  "description": "by: Artur Anderson",
   "icons": [
       {
           "src": "./images/icon-192x192.png",
