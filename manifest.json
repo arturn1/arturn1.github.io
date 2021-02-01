@@ -1,0 +1,18 @@
+{
+  "theme_color": "#5ba2a2",
+  "background_color": "#318989",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "app_name": "DEV's",
+  "short_name": "DEV's",
+  "name": "DEV's",
+  "description": "By: Artur Anderson",
+  "icons": [
+      {
+          "src": "icon-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+      }
+  ]
+}
