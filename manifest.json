@@ -5,12 +5,12 @@
   "scope": "/",
   "start_url": "/",
   "app_name": "By: Artur Anderson",
-  "short_name": "By: Artur Anderson",
+  "short_name": "By:Anderson",
   "name": "By: Artur Anderson",
   "description": "By: Artur Anderson",
   "icons": [
       {
-          "src": "./images/bee16x16.png",
+          "src": ".images/icon-192x192.png",
           "sizes": "192x192",
           "type": "image/png"
       }
