@@ -184,7 +184,7 @@ li {
 
 /* === Section Header === */
 .main-content section .section-header {
-    margin-top: 40px;
+    margin-top: 70px;
     margin-bottom: 40px;
     position: relative;
 }
@@ -638,7 +638,7 @@ li {
 
 @media only screen and (max-width: 480px) {
     .main-content section {
-        padding: 60px 30px;
+        padding: 30px 30px;
     }
 }
 
